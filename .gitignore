@@ -1,0 +1,35 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary Files
+*.tmp
+*.bak
+*.cache
+
+# Office temporary files
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# Node modules (if using Hardhat/Truffle)
+node_modules/
+package-lock.json
+
+# Build artifacts
+build/
+dist/
+artifacts/
+cache/
+
+# Environment files
+.env
+.env.local

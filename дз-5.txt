@@ -1,0 +1,42 @@
+Домашнє завдання
+Практика:
+
+Написати смарт-контракт Hello, який:
+
+Містить структуру, яка зберігає інформацію про студента (імʼя, прізвище, вік).
+Містить зовнішню функцію для запису/зміни інформації про студента.
+Містить зовнішню функцію для виводу імені студента.
+Містить подію (event), яка буде викликатись при записі чи зміні імʼені.
+Містить внутрішню функцію, яка б змінювала вік та викликалась в пункті 2.
+Містить функцію, яка виводила всю струткуру.
+
+
+Для прийняття домашнього завдання потрібно: 
+
+Запустити смарт-контракт в тестовому оточенні Remix IDE.
+Зробити скріншот контракту та прікрипити його.
+Зробити скріншот, на якому видно, що контракт скомпільовано без помилок.
+
+
+ПОСИЛАННЯ
+Remix’s documentation
+https://remix-ide.readthedocs.io/en/latest/
+
+How to Use REMIX IDE Latest Layout
+https://youtu.be/Bye7awjzZ_g
+
+Constructors
+https://www.youtube.com/watch?v=HpjZZ9tASGs
+
+View and Pure Functions
+https://www.youtube.com/watch?v=xknoxALAL8c
+
+Gas and Gas Price
+https://www.youtube.com/watch?v=oTS9uxU6cAM
+
+
+Payable functions
+https://www.youtube.com/watch?v=yD9EL1QN40Q
+
+Structure of a Contract
+https://docs.soliditylang.org/en/v0.8.19/structure-of-a-contract.html
